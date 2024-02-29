@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AceGrade](https://acegrade.in/)
 
-- 🌱 I’m currently learning **Flask, Deployment & other Things**
+- 🌱 learning **Flask, Deployment & other Things **ackend stuffs****
 
 - 📫 Mail me : **chingaarisharma@gmail.com**
 
