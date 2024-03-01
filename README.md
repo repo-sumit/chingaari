@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Data Science Students & a Problem Solver</h3>
+<h3 align="center">a Data Science Student & a Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chingaari&label=Profile%20views&color=0e75b6&style=flat" alt="chingaari" /> </p>
 
 - 🔭 I’m currently working on [AceGrade](https://acegrade.in/)
 
-- 🌱 learning **Flask, Deployment & other Things **ackend stuffs****
+- 🌱 learning **Flask, Deployment & other Things Backend stuffs****
 
 - 📫 Mail me : **chingaarisharma@gmail.com**
 
